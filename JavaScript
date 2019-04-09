@@ -1,0 +1,8 @@
+var a=[];
+var n=prompt("enter no of Students?")
+for  var x=0 in n
+{
+		a[x]=prompt("Enter Names");  
+}
+
+document.write(a);
